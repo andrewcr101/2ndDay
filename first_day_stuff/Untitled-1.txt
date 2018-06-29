@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>DAWGS RULE DA SOUTH</title>
+  </head>
+  <body>
+    <h1>Real football is played in the SEC</h1>
+    <img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Ftheblacksheeponline.com%2Fwp-content%2Fuploads%2F2018%2F03%2Fuga-drunk.jpg&imgrefurl=http%3A%2F%2Ftheblacksheeponline.com%2Fgeorgia%2Fuga-drunk-persona&docid=pIbdRcVAevjHeM&tbnid=CxBGCu-Nmy04uM%3A&vet=10ahUKEwiVndvs0_LbAhUHvlkKHZExDpUQMwg3KAAwAA..i&w=1001&h=547&bih=635&biw=1366&q=uga&ved=0ahUKEwiVndvs0_LbAhUHvlkKHZExDpUQMwg3KAAwAA&iact=mrc&uact=8"atl="uga">
+    <ul>
+      <li> Atlanta Falcons</li>
+      <li> UGA Dawgs!!</li>
+    </ul>
+  </body>
+</html>
